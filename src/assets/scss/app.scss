@@ -1,3 +1,5 @@
-html{
-    background: red;
+$primery-color: #dc780b;
+@import "components/header.scss";
+html {
+    color: $primery-color;
 }
